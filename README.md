@@ -1,7 +1,7 @@
 # UniAppYingLouApplet
 基于java SpringBoot和Vue uniapp的影楼摄影预约小程序设计
 
-演示视频链接：
+演示视频链接：https://live.csdn.net/v/325473
 
 详询 微信1：egvh56ufy7hh ，微信2：dabocode ，钉钉：chengxuyuandabo ，QQ：821898835 ，承接商业项目和毕设
 
